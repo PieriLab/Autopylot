@@ -111,8 +111,8 @@ class Candidate:
                 'precision': 'mixed',
                 'fon': 'yes',
                 'fon_temperature': '0.2',
-                'fon_target': '0.2'
-                'fon_anneal': 'no'
+                'fon_target': '0.2',
+                'fon_anneal': 'no',
                 'casscf': 'yes',
                 'closed': int((self.nelec/2)-(self.electrons/2)),
                 'active': self.orbitals,
