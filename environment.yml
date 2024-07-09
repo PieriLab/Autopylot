@@ -8,6 +8,7 @@ dependencies:
   - pandas
   - pip
   - matplotlib
+  - scikit-learn
   - pip:
     - pyyaml
     - flake8
